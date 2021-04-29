@@ -40,7 +40,7 @@ package Lection01;
         public static void printColor() {
             int value = 89;
             boolean red = value <= 0;
-            boolean green = value >= 100;
+            boolean green = value > 100;
             if (red) {
                 System.out.println("Красный");
                 System.out.println("");
