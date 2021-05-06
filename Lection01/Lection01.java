@@ -99,11 +99,11 @@ public class Lection01 {
 //        return  value1 + value2;
 //
 // }
-        doSomethingNoArgs();
+       // doSomethingNoArgs();
 
-        public static void doSomethingNoArgs() {
-            System.out.println("This is method without args ");
-        }
+//        public static void doSomethingNoArgs() {
+//            System.out.println("This is method without args ");
+//        }
 
     }
 }
